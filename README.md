@@ -10,3 +10,7 @@ Software Requirements: Thorny IED or similar software https://thonny.org/
 
                       
 
+Copy file to the root directory of the Pico.
+Use A and B buttons to select the scan mode (Ble or WiFi)
+X and Y buttons scroll thru results.  
+Scan results saved in text format on the Pico
